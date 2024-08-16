@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/mnOJa0WY)
 # PA1-The-Matrix
-
+Highlights: 
 Perform matrix multiplication using various optimization techniques:
 - blocked matrix multiplication
 - SIMD instructions
@@ -105,6 +105,6 @@ In this technique, we combine all the techniques as described above. The matrix 
 <br>
 
 The Graph of speedup looks like this :
-[![Speedup Graph](https://github.com/cs683-iitb-autumn-2023/pa1-the-matrix-aca/assets/142026579/56c1415a-8cb3-4390-95ca-09b4678dac79)](https://github.com/mk17499/Matrix_Multiplication_optimized/issues/1#issue-2469970224)
----
+[[![Speedup Graph](https://github.com/cs683-iitb-autumn-2023/pa1-the-matrix-aca/assets/142026579/56c1415a-8cb3-4390-95ca-09b4678dac79)](https://github.com/mk17499/Matrix_Multiplication_optimized/issues/1#issue-2469970224)
+---](https://github.com/mk17499/Matrix_Multiplication_optimized/issues/1#issue-2469970224)
 All the best! :smile:
