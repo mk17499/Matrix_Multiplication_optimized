@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/mnOJa0WY)
 # PA1-The-Matrix
-Highlights: 
+ 
 Perform matrix multiplication using various optimization techniques:
 - blocked matrix multiplication
 - SIMD instructions
@@ -106,5 +106,7 @@ In this technique, we combine all the techniques as described above. The matrix 
 
 The Graph of speedup looks like this :
 ![Screenshot from 2024-08-16 15-51-32](https://github.com/user-attachments/assets/329c5583-4a07-4ad6-93fd-c38d2c4b2236)
+
+Highlights: The latency improvement of the matrix multiplication is 33% and the speedup is approximately 4x
 
 All the best! :smile:
