@@ -105,6 +105,6 @@ In this technique, we combine all the techniques as described above. The matrix 
 <br>
 
 The Graph of speedup looks like this :
-![Speedup Graph](https://github.com/cs683-iitb-autumn-2023/pa1-the-matrix-aca/assets/142026579/56c1415a-8cb3-4390-95ca-09b4678dac79)
+[![Speedup Graph](https://github.com/cs683-iitb-autumn-2023/pa1-the-matrix-aca/assets/142026579/56c1415a-8cb3-4390-95ca-09b4678dac79)](https://github.com/mk17499/Matrix_Multiplication_optimized/issues/1#issue-2469970224)
 ---
 All the best! :smile:
